@@ -118,3 +118,11 @@
 	path = bundle/scala
 	url = git://github.com/riobard/scala.vim.git
 	ignore = dirty
+[submodule "bundle/applescript"]
+	path = bundle/applescript
+	url = git://github.com/vim-scripts/applescript.vim.git
+	ignore = dirty
+[submodule "bundle/clojure"]
+	path = bundle/clojure
+	url = git://github.com/vim-scripts/VimClojure.git
+	ignore = dirty
