@@ -130,3 +130,7 @@
 	path = bundle/golang
 	url = git://github.com/jnwhiteh/vim-golang.git
 	ignore = dirty
+[submodule "bundle/typescript"]
+	path = bundle/typescript
+	url = git://github.com/leafgarland/typescript-vim.git
+	ignore = dirty
